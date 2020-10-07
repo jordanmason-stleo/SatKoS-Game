@@ -62,7 +62,7 @@ if (argc == 2) {
     }
  cin >> nextlevel;
  cout << "\n" << endl;
- if (nextlevel <= l.choiceIDs.size() && nextlevel > 0) {
+ if (find(l.choiceIDs.begin(), l.choiceIDs.end(), nextlevel) != l.choiceIDs.end()) {
  l = GotoLevel(nextlevel);
  } else {
    cout << "Invalid page, try again! \n" << endl;
