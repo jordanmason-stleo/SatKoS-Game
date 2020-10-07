@@ -60,8 +60,15 @@ if (argc == 2) {
       cout << l.choiceIDs[i] << ". " << l.choices[i] << "\n\n";
       
     }
- cin >> nextlevel;
+    string nextlevelstring;
+ cin >> nextlevelstring;
  cout << "\n" << endl;
+ try {
+   nextlevel = stoi(nextlevelstring); }
+ catch(exception const)
+   {
+     
+   }
  if (find(l.choiceIDs.begin(), l.choiceIDs.end(), nextlevel) != l.choiceIDs.end()) {
  l = GotoLevel(nextlevel);
  } else {
