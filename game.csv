@@ -5,9 +5,9 @@
 4,,Testing First Passage,,This code has been awfully naughty!,,1,,9,,Continue
 5,,Testing First Passage,,Obliteration commencing! Man, I'm funny. You're currently telling me stories about your boyfriends! They're delightful.,,1,,10,,Continue
 6,,Testing First Passage,,Did you break it yet? Am I wasting my time now?,,2,,11,,12,,See if I've messed up yet,,Check if I've borked it
-7,,Testing First Passage,,You didn't choose this one. I don't even have to continue down this path. The end!
-8,,Testing First Passage,,Where even am I at this point? Keep going Greg! Actually, no. This is enough testing! Close this branch!
-9,,Testing First Passage,,Literally how did I get this far? I'll outline the real thing. Close this branch!
-10,,Testing First Passage,,Okay, we're almost done here. I need to make some of these branches lead to the same place in the real story. I'm realizing that. I'm conceptualizing this. End branch.
-11,,Testing First Passage,,I'm? Probably breaking this? Close this branch!
-12,,Testing First Passage,,Last one for tonight! Thanks for playing!!
+7,,Testing First Passage,,You didn't choose this one. I don't even have to continue down this path. The end!,,1,,255,,End
+8,,Testing First Passage,,Where even am I at this point? Keep going Greg! Actually, no. This is enough testing! Close this branch!,,1,,255,,End
+9,,Testing First Passage,,Literally how did I get this far? I'll outline the real thing. Close this branch!,,1,,255,,End
+10,,Testing First Passage,,Okay, we're almost done here. I need to make some of these branches lead to the same place in the real story. I'm realizing that. I'm conceptualizing this. End branch.,,1,,255,,End
+11,,Testing First Passage,,I'm? Probably breaking this? Close this branch!,,1,,255,,End
+12,,Testing First Passage,,Last one for tonight! Thanks for playing!!,,1,,255,,End
