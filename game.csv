@@ -1,0 +1,13 @@
+0,,Introduction,,Hello! Welcome to the official testing ground of this command-line-based adventure game! If you're reading this, I assume your name is Greg and that you're incredibly attractive! Two paths diverge before you, which do you choose?,,2,,1,,2,,Decimate my code,,Absolutely abolish what I have written
+1,,Testing First Passage,,Ah, excellent! So you've chosen to decimate my code! That's exciting. Do your worst, interloper!,,3,,3,,4,,5,,Annihilate this code,,Punish this code,,Obliterate this code
+2,,Testing First Passage,,A good solid abolishment is just what I need right now! Have at it, Greg!,,2,,6,,7,,Break it harder,,Go easy
+3,,Testing First Passage,,God this is hard to keep track of. Annihilate away!,,1,,8,,Continue
+4,,Testing First Passage,,This code has been awfully naughty!,,1,,9,,Continue
+5,,Testing First Passage,,Obliteration commencing! Man, I'm funny. You're currently telling me stories about your boyfriends! They're delightful.,,1,,10,,Continue
+6,,Testing First Passage,,Did you break it yet? Am I wasting my time now?,,2,,11,,12,,See if I've messed up yet,,Check if I've borked it
+7,,Testing First Passage,,You didn't choose this one. I don't even have to continue down this path. The end!
+8,,Testing First Passage,,Where even am I at this point? Keep going Greg! Actually, no. This is enough testing! Close this branch!
+9,,Testing First Passage,,Literally how did I get this far? I'll outline the real thing. Close this branch!
+10,,Testing First Passage,,Okay, we're almost done here. I need to make some of these branches lead to the same place in the real story. I'm realizing that. I'm conceptualizing this. End branch.
+11,,Testing First Passage,,I'm? Probably breaking this? Close this branch!
+12,,Testing First Passage,,Last one for tonight! Thanks for playing!!
